@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 MERN stack Developer
 --------------------
 
-👩‍💻 Final-year Bsc student , diving into programming and aspiring Full Stack Developer. Currently mastered HTML, CSS, and JavaScript while setting sights on the MERN stack for comprehensive web development. Join me in crafting the future of web experiences! 🚀💻✨
+👩‍💻 Graduated with B.Sc (Math), diving into programming and aspiring Full Stack Developer. Currently mastered HTML, CSS, and JavaScript while setting sights on the MERN stack for comprehensive web development. Join me in crafting the future of web experiences! 🚀💻✨
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vikashloharjsr@gmail.com](mailto:vikashloharjsr@gmail.com)
@@ -40,6 +40,9 @@ MERN stack Developer
 
 ### Deployments
 - [Amazon UI](https://myamazonui.netlify.app/)
+- [Title Crafter](https://title-crafter.netlify.app/)
+- [PlayStation UI](https://myplaystationui.netlify.app/)
+- [Weather App](https://ninja-weather.netlify.app/)
 
 ### Badges
 **My Github Stats**
