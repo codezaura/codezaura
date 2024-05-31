@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-MERN stack Developer
---------------------
-
 👩‍💻 Graduated with B.Sc (Math), diving into programming and aspiring Full Stack Developer. Currently mastered HTML, CSS, and JavaScript while setting sights on the MERN stack for comprehensive web development. Join me in crafting the future of web experiences! 🚀💻✨
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [vikashloharjsr@gmail.com](mailto:vikashloharjsr@gmail.com)
 * 🧠  I'm learning MERN STACK DEVELOPMENT
-* 🤝  I'm open to collaborating on fronted projects
+* 🤝  I'm open to collaborating on frontend projects
 
 ### Skills
 
