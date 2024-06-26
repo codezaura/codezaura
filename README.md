@@ -7,36 +7,7 @@
 
 <h3 align="center">Aspiring MERN stack developer from INDIA</h3>
 
-<!--
-<div align="center">
-  <a href="https://www.linkedin.com/in/kartik-mahato-206760227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/hlo.kartik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
--->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ninja-Vikash&label=Profile%20views&color=0e75b6&style=flat" alt="Ninja-Vikash" /> </p>
-
-<!--
-**Ninja-Vikash/Ninja-Vikash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### **About me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤓 I'm a graduate in **Mathematics**
@@ -50,6 +21,9 @@ Here are some ideas to get you started:
 ### Connect with me 
 
 <p align="left"> <a href="https://www.github.com/Ninja-Vikash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/vikashkumar003/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=Ninja-Vikash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Skills and Toolkit
 
