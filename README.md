@@ -1,8 +1,7 @@
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlpbml6dzJ6c2Rtejg2d3VtNDg3NjF3azlobjVpdjFtcmZxMmtiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" height="300px"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlpbml6dzJ6c2Rtejg2d3VtNDg3NjF3azlobjVpdjFtcmZxMmtiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" width="100%"/>
 </div>
 
-<h3 align="center">Welcome 🙏</h3>
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px>, I'm Vikash Kumar🎯️🚀️</h1>
 
 <h3 align="center">Aspiring MERN stack developer from INDIA</h3>
@@ -57,18 +56,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify logo" />
 </div>
 
-### Glimpse
+### Project Glimpses
 
-- [Amazon UI](https://myamazonui.netlify.app/)
-- [Title Crafter](https://title-crafter.netlify.app/)
-- [PlayStation UI](https://myplaystationui.netlify.app/)
-- [Weather App](https://ninja-weather.netlify.app/)
+- [Amazon UI](https://myamazonui.netlify.app/)<br/>
+  A responsive and sleek UI clone of the most popular e-commerce website, Amazon.<br/>
+  **Tech Stack**: HTML, CSS, ReactJS, LocoMotiveJS, and SwiperJS
+- [Title Crafter](https://title-crafter.netlify.app/)<br/>
+  A brand name suffix generator helps to create awesome brand titles<br/>
+  **Tech Stack**: HTML, CSS, JavaScript
+- [PlayStation UI](https://myplaystationui.netlify.app/)<br/>
+  It is an amazing UI clone of the most popular websites like PlayStation, Having a sleek and responsive layout achieved by CSS Grid properties.<br/>
+  **Tech Stack**: HTML, CSS, ReactJS, and SwiperJS
+- [Weather App](https://ninja-weather.netlify.app/)<br/>
+  A minimalistic WeatherApp provides the weather data of any city, Adaptable for all screen sizes.<br/>
+  **Tech Stack**: HTML, CSS, JavaScript, and WeatherAPI
+
+### Checkout Documentaries
+
+- [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
+  I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
+  Check the repo, If you have suggestions create a pull.
 
 ### GitHub Stats
 
 <a href="http://www.github.com/Ninja-Vikash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninja-Vikash&card_width=500&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div>
-<a href="http://www.github.com/Ninja-Vikash"><img src="https://github-readme-stats.vercel.app/api?username=Ninja-Vikash&card_width=300&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ninja-Vikash's GitHub stats" /></a>
-<a href="https://github.com/Ninja-Vikash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-Vikash&layout=compact&card_width=400&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Ninja-Vikash"><img src="https://github-readme-stats.vercel.app/api?username=Ninja-Vikash&card_width=300&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true&locale=en&custom_title=Activities%20%🌟" alt="Ninja-Vikash's GitHub stats" /></a>
+<a href="https://github.com/Ninja-Vikash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-Vikash&layout=compact&card_width=400&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%used%20%Languages%20%💖" alt="Top Languages" /></a>
 </div>
