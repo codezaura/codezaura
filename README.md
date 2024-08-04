@@ -76,6 +76,14 @@
 - [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
   I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
   Check the repo, If you have suggestions create a pull.
+- [File Organizer Utility](https://github.com/Ninja-Vikash/file-organizer-utility) 😋<br/>
+  File Organizer is a utility that helps manage and organize files inside separate folders.
+    ```js
+    import { Clutter } from "../clutter.js";
+    
+    Clutter("index.js")
+    ```
+  You need just `import` and use
 
 ### GitHub Stats
 
