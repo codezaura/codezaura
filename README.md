@@ -71,7 +71,7 @@
   A minimalistic WeatherApp provides the weather data of any city, Adaptable for all screen sizes.<br/>
   **Tech Stack**: HTML, CSS, JavaScript, and WeatherAPI
 
-### Checkout Documentaries
+### Docs
 
 - [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
   I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
