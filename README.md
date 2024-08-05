@@ -83,7 +83,7 @@
     
     Clutter("index.js")
     ```
-  You need just `import` and use
+  The complete guide is available on documentation.
 
 ### GitHub Stats
 
