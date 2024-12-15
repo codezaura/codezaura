@@ -66,7 +66,7 @@
 ### What I built?
 
 - **[Amazon UI](https://myamazonui.netlify.app/)**
-  ![cover-amazon](https://github.com/user-attachments/assets/6ee6b109-3c2d-46a0-9f3e-1f2123d6cc9c)
+  [![cover-amazon](https://github.com/user-attachments/assets/6ee6b109-3c2d-46a0-9f3e-1f2123d6cc9c)](https://myamazonui.netlify.app/)
   A responsive and sleek UI clone of the most popular e-commerce website, Amazon.<br/>
   **Tech Stack**:<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swiper/swiper-original.svg" height="30" alt="swiper-js logo" />
@@ -74,7 +74,7 @@
   🔗 [Code](https://github.com/Ninja-Vikash/myamazon) | [Live](https://myamazonui.netlify.app/) 🚀
   
 - **[Title Crafter](https://title-crafter.netlify.app/)**
-  ![cover-title-crafter](https://github.com/user-attachments/assets/53a232e2-111e-4b32-966a-9a8b10196547)
+  [![cover-title-crafter](https://github.com/user-attachments/assets/53a232e2-111e-4b32-966a-9a8b10196547)](https://title-crafter.netlify.app/)
   A brand name suffix generator helps to create awesome brand titles<br/>
   **Tech Stack**<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -82,7 +82,7 @@
   🔗 [Code](https://github.com/Ninja-Vikash/Title-Crafter) | [Live](https://title-crafter.netlify.app/) 🚀
   
 - **[PlayStation UI](https://myplaystationui.netlify.app/)**
-  ![playstationui](https://github.com/user-attachments/assets/9ea5c7d7-e2ac-47e2-8f7b-af7c5ff26b8f)
+  [![playstationui](https://github.com/user-attachments/assets/9ea5c7d7-e2ac-47e2-8f7b-af7c5ff26b8f)](https://myplaystationui.netlify.app/)
   It is an amazing UI clone of the most popular websites like PlayStation, Having a sleek and responsive layout achieved by CSS Grid properties.<br/>
   **Tech Stack**<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swiper/swiper-original.svg" height="30" alt="swiper-js logo" />
@@ -90,7 +90,7 @@
  🔗 [Code](https://github.com/Ninja-Vikash/myplaystation) | [Live](https://myplaystationui.netlify.app/) 🚀
   
 - **[Weather App](https://ninja-weather.netlify.app/)**
-  ![weather-app](https://github.com/user-attachments/assets/f2a1b6f9-62db-4fc4-881d-c2b4ebf41a55)
+  [![weather-app](https://github.com/user-attachments/assets/f2a1b6f9-62db-4fc4-881d-c2b4ebf41a55)](https://ninja-weather.netlify.app/)
   A minimalistic WeatherApp provides the weather data of any city, Adaptable for all screen sizes.<br/>
   **Tech Stack**<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" height="30" alt="axios api" />
@@ -98,7 +98,7 @@
   🔗 [Code](https://github.com/Ninja-Vikash/weatherapp) | [Live](https://ninja-weather.netlify.app/) 🚀
 
 - **[Weather App - Multi-background](https://weather-gray-ten.vercel.app/)**
-  ![weather-app-react](https://github.com/user-attachments/assets/08d4da09-a6bf-4fa1-8261-0860a249b2a7)
+  [![weather-app-react](https://github.com/user-attachments/assets/08d4da09-a6bf-4fa1-8261-0860a249b2a7)](https://weather-gray-ten.vercel.app/)
   A multi-background weather app built on react and responsive for every screen size.<br/>
   **Tech Stack**<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img width="5" /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" height="30" alt="axios api" />
