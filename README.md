@@ -107,17 +107,40 @@
 
 ### Docs
 
+- [flash-setup](https://github.com/Ninja-Vikash/flash-setup) ⚡<br/>
+  Are you looking for a handy tool for initializing yout react project?<br/>
+  Gottcha!!!<br/>
+
+  _flash-setup_ does the same thing for you.
+
+  ```bash
+  npx flash-setup
+  ```
+
+  🔗 [npm: flash-setup](https://www.npmjs.com/package/flash-setup)
+
+- [Docs.dev](https://github.com/Ninja-Vikash/Docs.dev)<br/>
+  Looking for your own go-to-go resource book!<br/>
+  End up your search with _Docs.dev_<br/>
+  Covering Frontend Stuff! 😋
+  
+  ![Docs dev](https://github.com/user-attachments/assets/9343eb94-0e1a-4c1b-8ce8-4c1cdc50f3aa)
+
 - [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
   I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
-  Check the repo, If you have suggestions create a pull.
+  
 - [File Organizer Utility](https://github.com/Ninja-Vikash/file-organizer-utility) 😋<br/>
-  File Organizer is a utility that helps manage and organize files inside separate folders.
+  Want a quick cleanup for your download folder with messy file collection?<br/>
+  Great! Here is a handy tool for you.
+  
     ```js
     import { Clutter } from "../clutter.js";
     
     Clutter("index.js")
     ```
-  The complete guide is available on documentation.
+
+    Read the documentary for better explanation.
+  
 
 ### GitHub Stats
 
