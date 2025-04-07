@@ -80,6 +80,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
   🔗 [Code](https://github.com/Ninja-Vikash/Title-Crafter) | [Live](https://title-crafter.netlify.app/) 🚀
+
+- **[Magic Number](https://guess-the-magic.netlify.app/)**
+  ![cover-magic-number](https://github.com/user-attachments/assets/a83b87e7-3e85-494f-826e-1cb975affaee)
+  A fast paced game for trick your brain.
+
+  🔗 [Code](https://github.com/Ninja-Vikash/magic-number-guess) | [Live](https://guess-the-magic.netlify.app/) 🚀
   
 - **[PlayStation UI](https://myplaystationui.netlify.app/)**
   [![playstationui](https://github.com/user-attachments/assets/9ea5c7d7-e2ac-47e2-8f7b-af7c5ff26b8f)](https://myplaystationui.netlify.app/)
