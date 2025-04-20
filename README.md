@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ninja-Vikash&label=Watched%20by&color=0e75b6&style=flat" alt="Ninja-Vikash" /> </p>
 
 ### **About me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤓 I'm a graduate in **Mathematics**
 - 🔭 I’m currently working on **Quizforces**
 - 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **Front-end Projects**
@@ -120,6 +119,7 @@
   _flash-setup_ does the same thing for you.
 
   ```bash
+  # Initialize your react app
   npx flash-setup
   ```
 
@@ -140,12 +140,14 @@
   Great! Here is a handy tool for you.
   
     ```js
+    // index.js
     import { Clutter } from "../clutter.js";
     
     Clutter("index.js")
     ```
 
-    Read the documentary for better explanation.
+  > [TIP]\
+  > For clarity in usage checkout the repo.
   
 
 ### GitHub Stats
