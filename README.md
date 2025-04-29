@@ -146,8 +146,8 @@
     Clutter("index.js")
     ```
 
-  > [TIP]\
-  > For clarity in usage checkout the repo.
+> [!TIP]\
+> For clarity in usage checkout the repo.
   
 
 ### GitHub Stats
