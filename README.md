@@ -110,20 +110,20 @@
 
   🔗 [Code](https://github.com/Ninja-Vikash/weather) | [Live](https://weather-gray-ten.vercel.app/) 🚀
 
-### Docs
+### Powerhouse
 
-- [flash-setup](https://github.com/Ninja-Vikash/flash-setup) ⚡<br/>
-  Are you looking for a handy tool for initializing yout react project?<br/>
+- [vitecraft](https://github.com/Ninja-Vikash/vitecraft) ⚡<br/>
+  Are you looking for a handy tool for initializing your react project?<br/>
   Gottcha!!!<br/>
 
-  _flash-setup_ does the same thing for you.
+  _vitecraft_ does the same thing for you.
 
   ```bash
-  # Initialize your react app
-  npx flash-setup
+  # CLI to Initialize App
+  npx vitecraft
   ```
 
-  🔗 [npm: flash-setup](https://www.npmjs.com/package/flash-setup)
+  🔗 [npmjs.com/vitecraft](https://www.npmjs.com/package/flash-setup)
 
 - [Docs.dev](https://github.com/Ninja-Vikash/Docs.dev)<br/>
   Looking for your own go-to-go resource book!<br/>
