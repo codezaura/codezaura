@@ -4,17 +4,14 @@
 
 <h1 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height=30px>, I'm Vikash Kumar🎯️🚀️</h1>
 
-<h3 align="left">Building Quizforces 🚀 | Frontend Developer</h3>
+<h3 align="left">We're Building Quizforces 🚀 | Web Developer | India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ninja-Vikash&label=Watched%20by&color=0e75b6&style=flat" alt="Ninja-Vikash" /> </p>
 
 ### **About me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently working on **Quizforces**
-- 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on **Front-end Projects**
-- 💬 Ask me about **JavaScript, React.js & Material UI**
+- 💬 Ask me about **Frontend Stuff like JavaScript, React & Material UI**
 - 📫 How to reach me: [vikashloharjsr@gmail.com](mailto:vikashloharjsr@gmail.com)
-- ⚡ Fun fact: **I am foody**
+- ⚡ Fun fact: **Food can make me happy!**
 
 ### Connect with me 
 
@@ -38,19 +35,13 @@
 
 **Languages**
 | | | |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /> | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> |
 
-**Backend ( exploring )**
+**Backend**
 | | | |
 | :---: | :---: | :---: |
 | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" /> | <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" /> |
-
-
-**Upcoming**
-| |
-| :---: |
-| <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> |
 
 **Deployments**
 | | |
@@ -60,9 +51,52 @@
 
 <img src="" alt="" />
 
+### Glimpse of work
+
+- [vitecraft](https://github.com/Ninja-Vikash/vitecraft) ⚡<br/>
+
+  **Eliminate** the process of setting up react project.
+
+  A super cool handy tool to quickly setup react app with built-in library support for ( TailwindCSS, MUI, Axios, Prettier )<br />
+  Wanna try, Just play with the CLI below 👇
+
+  _vitecraft_ does the same thing for you.
+
+  ```bash
+  # CLI to Initialize App
+  npx vitecraft
+  ```
+
+  🔗 [npmjs.com/vitecraft](https://www.npmjs.com/package/vitecraft)
+
+- [Docs.dev](https://github.com/Ninja-Vikash/Docs.dev)<br/>
+  Looking for your own go-to-go resource book!<br/>
+  End up your search with _Docs.dev_<br/>
+  Covering Frontend Stuff! 😋
+  
+  ![Docs dev](https://github.com/user-attachments/assets/9343eb94-0e1a-4c1b-8ce8-4c1cdc50f3aa)
+
+- [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
+  I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
+  
+- [File Organizer Utility](https://github.com/Ninja-Vikash/file-organizer-utility) 😋<br/>
+  Want a quick cleanup for your download folder with messy file collection?<br/>
+  Great! Here is a handy tool for you.
+  
+    ```js
+    // index.js
+    import { Clutter } from "../clutter.js";
+    
+    Clutter("index.js")
+    ```
 
 
 ### What I built?
+
+- **[Employee Data Storage](https://github.com/Ninja-Vikash/employee-data)**
+  ![image](https://github.com/user-attachments/assets/0bf7c35a-93d0-40b9-bff1-b3a7590e6234)
+  A MERN App built to store employee data.
+
 
 - **[Amazon UI](https://myamazonui.netlify.app/)**
   [![cover-amazon](https://github.com/user-attachments/assets/6ee6b109-3c2d-46a0-9f3e-1f2123d6cc9c)](https://myamazonui.netlify.app/)
@@ -109,45 +143,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img width="5" /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/axios/axios-plain-wordmark.svg" height="30" alt="axios api" />
 
   🔗 [Code](https://github.com/Ninja-Vikash/weather) | [Live](https://weather-gray-ten.vercel.app/) 🚀
-
-### Powerhouse
-
-- [vitecraft](https://github.com/Ninja-Vikash/vitecraft) ⚡<br/>
-  Are you looking for a handy tool for initializing your react project?<br/>
-  Gottcha!!!<br/>
-
-  _vitecraft_ does the same thing for you.
-
-  ```bash
-  # CLI to Initialize App
-  npx vitecraft
-  ```
-
-  🔗 [npmjs.com/vitecraft](https://www.npmjs.com/package/flash-setup)
-
-- [Docs.dev](https://github.com/Ninja-Vikash/Docs.dev)<br/>
-  Looking for your own go-to-go resource book!<br/>
-  End up your search with _Docs.dev_<br/>
-  Covering Frontend Stuff! 😋
-  
-  ![Docs dev](https://github.com/user-attachments/assets/9343eb94-0e1a-4c1b-8ce8-4c1cdc50f3aa)
-
-- [JavaScript BrainStorming](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡<br/>
-  I covered the basics of JavaScript in this repository using my knowledge. Written many code snippets to improve problem-solving tactics.<br/>
-  
-- [File Organizer Utility](https://github.com/Ninja-Vikash/file-organizer-utility) 😋<br/>
-  Want a quick cleanup for your download folder with messy file collection?<br/>
-  Great! Here is a handy tool for you.
-  
-    ```js
-    // index.js
-    import { Clutter } from "../clutter.js";
-    
-    Clutter("index.js")
-    ```
-
-> [!TIP]\
-> For clarity in usage checkout the repo.
   
 
 ### GitHub Stats
