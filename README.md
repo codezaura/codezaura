@@ -99,7 +99,7 @@ And Hacks! 😎
 
 ----
 
-### [**JS BrainStorming**](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡
+### [**`JS BrainStorming`**](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡
 
 **JSBrainStorming**, has built to practice!<br />
 JavaScript challenges and logic building.
@@ -108,7 +108,7 @@ Inside the repo there are many `Code Snippets` written for pratice and logic bui
 
 ----
   
-### [**File Organizer Utility**](https://github.com/Ninja-Vikash/file-organizer-utility) 😋
+### [**`File Organizer Utility`**](https://github.com/Ninja-Vikash/file-organizer-utility) 😋
 
 Do you need?<br />
 *A quick cleanup of your download folder with messy file collection*.
@@ -132,20 +132,42 @@ Clutter("index.js")
 
 ----
 
-### What I built?
+### [`Employee Data Storage`](https://github.com/Ninja-Vikash/employee-data) 🧑‍🏭
 
-- **[Employee Data Storage](https://github.com/Ninja-Vikash/employee-data)**
-  ![image](https://github.com/user-attachments/assets/0bf7c35a-93d0-40b9-bff1-b3a7590e6234)
-  A MERN App built to store employee data.
+A `MERN` Stack application, *built for storing informations of your employees*.
 
+**Frontend** and **Backend** both are packed in one place.<br />
+So, You do not need to look anywhere else for backbone code.
 
-- **[Amazon UI](https://myamazonui.netlify.app/)**
-  [![cover-amazon](https://github.com/user-attachments/assets/6ee6b109-3c2d-46a0-9f3e-1f2123d6cc9c)](https://myamazonui.netlify.app/)
-  A responsive and sleek UI clone of the most popular e-commerce website, Amazon.<br/>
-  **Tech Stack**:<br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /> <img width="5" /> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swiper/swiper-original.svg" height="30" alt="swiper-js logo" />
+Agenda: *one repo, one project!*
 
-  🔗 [Code](https://github.com/Ninja-Vikash/myamazon) | [Live](https://myamazonui.netlify.app/) 🚀
+----
+
+### [`Magical Number`](https://guess-the-magic.netlify.app/) 🔮
+  
+**Fast**, **Simple**, and **Interesting**!<br />
+An answer `predictor bot`, who is waiting for your first input.
+
+**Rules**:<br />
+3 Inputs from the user and 2 reponses from the bot.
+
+Try out 👉: [magical-number](https://guess-the-magic.netlify.app/) 🚀
+
+Code: [GitHub Source](https://github.com/Ninja-Vikash/magic-number-guess)
+
+---
+
+### [`NotesApp`](https://github.com/Ninja-Vikash/notesapp)
+
+NotesApp, a minimal application built for storing notes.<br />
+Provides user creation and log-in facilities.
+
+> [!warning]\
+> Sign-in and Log-in flow is under-development.
+>
+> Still you can create a user and can log-in with your password.
+
+---
   
 - **[Title Crafter](https://title-crafter.netlify.app/)**
   [![cover-title-crafter](https://github.com/user-attachments/assets/53a232e2-111e-4b32-966a-9a8b10196547)](https://title-crafter.netlify.app/)
@@ -154,12 +176,6 @@ Clutter("index.js")
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 
   🔗 [Code](https://github.com/Ninja-Vikash/Title-Crafter) | [Live](https://title-crafter.netlify.app/) 🚀
-
-- **[Magic Number](https://guess-the-magic.netlify.app/)**
-  ![cover-magic-number](https://github.com/user-attachments/assets/a83b87e7-3e85-494f-826e-1cb975affaee)
-  A fast paced game for trick your brain.
-
-  🔗 [Code](https://github.com/Ninja-Vikash/magic-number-guess) | [Live](https://guess-the-magic.netlify.app/) 🚀
   
 - **[PlayStation UI](https://myplaystationui.netlify.app/)**
   [![playstationui](https://github.com/user-attachments/assets/9ea5c7d7-e2ac-47e2-8f7b-af7c5ff26b8f)](https://myplaystationui.netlify.app/)
