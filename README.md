@@ -32,6 +32,34 @@
 
 ## My Works 👇
 
+### [**`caselyjs`**](https://github.com/Ninja-Vikash/caselyjs)
+
+caselyjs is a programmatic tool that helps you rename files and folders in bulk using a consistent naming convention like `kebab-case`, `camelCase`, or `PascalCase`.
+
+*Say goodbye to manually renaming 100+ files in your project!*
+
+```bash
+npm install caselyjs
+```
+
+Minimum setup you need to start with
+```js
+import { casely } from 'caselyjs';
+
+casely.config({
+  path: 'src'
+});
+
+casely.execute();
+```
+
+> [!tip]\
+> Full configuration details inside the documentation.
+
+🔗 [**npmjs.com/caselyjs**](https://www.npmjs.com/package/caselyjs)
+
+----
+
 ### [**`vitecraft`**](https://github.com/Ninja-Vikash/vitecraft) ⚡
 
 **Eliminates** the process of setting up react project from scratch.<br />
