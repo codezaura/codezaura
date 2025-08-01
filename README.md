@@ -60,29 +60,6 @@ casely.execute();
 
 ----
 
-### [**`vitecraft`**](https://github.com/Ninja-Vikash/vitecraft) ⚡
-
-**Eliminates** the process of setting up react project from scratch.<br />
-Instead, Use *`vitecraft`*
-
-> [!warning]\
-> `vitecraft` is still under-development phase.
-
-A super cool handy tool to quickly setup react app with built-in library support for ( `TailwindCSS`, `MaterialUI`, `Axios`, `Prettier` and so on. )<br />
-Must try! - In your upcoming projects.<br />
-Play with the CLI below 👇
-
-_`vitecraft`_, Enjoy! Your superfast setup tool 🚀!
-
-```bash
-# CLI to Initialize App
-npx vitecraft
-```
-
-🔗 [**npmjs.com/vitecraft**](https://www.npmjs.com/package/vitecraft)
-
-----
-
 ### [**`Docs.dev`**](https://github.com/Ninja-Vikash/Docs.dev)
 
 *An ultimate resource for `Web Developer`s*!
@@ -128,17 +105,6 @@ Clutter("index.js")
 
 ----
 
-### [`Employee Data Storage`](https://github.com/Ninja-Vikash/employee-data) 🧑‍🏭
-
-A `MERN` Stack application, *built for storing informations of your employees*.
-
-**Frontend** and **Backend** both are packed in one place.<br />
-So, You do not need to look anywhere else for backbone code.
-
-Agenda: *one repo, one project!*
-
-----
-
 ### [`Magical Number`](https://guess-the-magic.netlify.app/) 🔮
   
 **Fast**, **Simple**, and **Interesting**!<br />
@@ -150,18 +116,6 @@ An answer `predictor bot`, who is waiting for your first input.
 Try out 👉: [magical-number](https://guess-the-magic.netlify.app/) 🚀
 
 Code: [GitHub Source](https://github.com/Ninja-Vikash/magic-number-guess)
-
----
-
-### [`NotesApp`](https://github.com/Ninja-Vikash/notesapp)
-
-NotesApp, an application built for storing notes.<br />
-Provides user creation and log-in facilities.
-
-> [!warning]\
-> Sign-in and Log-in flow is under-development.
->
-> Still you can create a user and can log-in with your password.
 
 ---
 
