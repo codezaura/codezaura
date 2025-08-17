@@ -15,24 +15,24 @@
 - ⚡ Fun fact:<br />
   **Food can make me happy!**
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=Ninja-Vikash&label=Watched%20by&color=0e75b6&style=flat" alt="Ninja-Vikash" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=codezaura&label=Watched%20by&color=0e75b6&style=flat" alt="codezaura" /> </span>
 
 ****
 
 ### Connect on 🔗
 
-<p align="left"> <a href="https://www.github.com/Ninja-Vikash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/vikashkumar003/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/codezaura" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> &nbsp; <a href="https://www.linkedin.com/in/codezaura/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ****
 
 ### GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=Ninja-Vikash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=codezaura&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ****
 
 ## My Works 👇
 
-### [**`caselyjs`**](https://github.com/Ninja-Vikash/caselyjs)
+### [**`caselyjs`**](https://github.com/codezaura/caselyjs)
 
 caselyjs is a programmatic tool that helps you rename files and folders in bulk using a consistent naming convention like `kebab-case`, `camelCase`, or `PascalCase`.
 
@@ -60,7 +60,7 @@ casely.execute();
 
 ----
 
-### [**`Docs.dev`**](https://github.com/Ninja-Vikash/Docs.dev)
+### [**`Docs.dev`**](https://github.com/codezaura/Docs.dev)
 
 *An ultimate resource for `Web Developer`s*!
 
@@ -72,7 +72,7 @@ And Hacks! 😎
 
 ----
 
-### [**`JS BrainStorming`**](https://github.com/Ninja-Vikash/JavaScript-BrainStorming) ⚡
+### [**`JS BrainStorming`**](https://github.com/codezaura/JavaScript-BrainStorming) ⚡
 
 **JSBrainStorming**, has built to practice!<br />
 JavaScript challenges and logic building.
@@ -81,7 +81,7 @@ Inside the repo there are many `Code Snippets` written for pratice and logic bui
 
 ----
   
-### [**`File Organizer Utility`**](https://github.com/Ninja-Vikash/file-organizer-utility) 😋
+### [**`File Organizer Utility`**](https://github.com/codezaura/file-organizer-utility) 😋
 
 Do you need?<br />
 *A quick cleanup of your download folder with messy file collection*.
@@ -115,11 +115,11 @@ An answer `predictor bot`, who is waiting for your first input.
 
 Try out 👉: [magical-number](https://guess-the-magic.netlify.app/) 🚀
 
-Code: [GitHub Source](https://github.com/Ninja-Vikash/magic-number-guess)
+Code: [GitHub Source](https://github.com/codezaura/magic-number-guess)
 
 ---
 
-### [`explore.io`](https://github.com/Ninja-Vikash/explore.io)
+### [`explore.io`](https://github.com/codezaura/explore.io)
 
 A minimal search engine built on the top of `google search API`
 
@@ -129,9 +129,9 @@ A minimal search engine built on the top of `google search API`
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Ninja-Vikash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ninja-Vikash&card_width=500&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/codezaura"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codezaura&card_width=500&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <div>
-<a href="http://www.github.com/Ninja-Vikash"><img src="https://github-readme-stats.vercel.app/api?username=Ninja-Vikash&card_width=300&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true&locale=en&custom_title=Activities%20%🌟" alt="Ninja-Vikash's GitHub stats" /></a>
-<a href="https://github.com/Ninja-Vikash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-Vikash&layout=compact&card_width=400&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%used%20%Languages%20%💖" alt="Top Languages" /></a>
+<a href="http://www.github.com/codezaura"><img src="https://github-readme-stats.vercel.app/api?username=codezaura&card_width=300&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true&locale=en&custom_title=Activities%20%🌟" alt="codezaura's GitHub stats" /></a>
+<a href="https://github.com/codezaura" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codezaura&layout=compact&card_width=400&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%used%20%Languages%20%💖" alt="Top Languages" /></a>
 </div>
