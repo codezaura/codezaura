@@ -44,6 +44,19 @@
 
 <br />
 
+### 🚀 Tools
+
+- `create-next-mui`
+  - [docs](https://create-next-mui.vercel.app/)
+  - [repo](https://github.com/thatonevikash/create-next-mui)
+
+- `caselyjs`
+  - [repo](https://github.com/thatonevikash/caselyjs)
+
+- `nova`
+  - [repo](https://github.com/thatonevikash/nova)
+
+
 <p>
   Let's build something awesome together! 🚀
 </p>
