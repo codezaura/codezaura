@@ -46,16 +46,11 @@
 
 ### 🚀 Tools
 
-- `create-next-mui`
-  - [docs](https://create-next-mui.vercel.app/)
-  - [repo](https://github.com/thatonevikash/create-next-mui)
-
-- `caselyjs`
-  - [repo](https://github.com/thatonevikash/caselyjs)
-
-- `nova`
-  - [repo](https://github.com/thatonevikash/nova)
-
+|  | Url ( Links ) | Description | Stage |
+| :--- | :--- | :--- | :--- |
+| `create-next-mui` | [docs](https://create-next-mui.vercel.app/) , [repo](https://github.com/thatonevikash/create-next-mui) | Build Nextjs + MUI with zero manual work | `stable` | 
+| `caselyjs` | [repo](https://github.com/thatonevikash/caselyjs) | Eliminate un-even naming conventions in codebase | `stable` |
+| `nova` | [repo](https://github.com/thatonevikash/nova) | Setup your local assistant that lives on your terminal | `beta` |
 
 <p>
   Let's build something awesome together! 🚀
