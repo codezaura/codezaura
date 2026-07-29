@@ -10,7 +10,7 @@
   </p>
 
   <samp>
-    <b>Co-founder - Quizforces | Frontend Developer</b>
+    <b>Co-founder at Quizforces | Web Developer | Talks about Life, Sprituality, Human Psychology</b>
   </samp>
 <!-- </div> -->
 
@@ -19,7 +19,7 @@
 ### 🚀 About Me
 - 💻 I believe: *Readable code is far better than fancy!*
 - 🛠️ Building - Improving - Learning.
-- 💡 Passionate about writing **Code in 'React'**.
+- 💡 Passionate about building **Crazy stuffs using 'JavaScript'**.
 - 🍕 **Fun Fact:** My coding speed is directly proportional to how much good food I've eaten!
 
 ---
